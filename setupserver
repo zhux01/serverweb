@@ -9,3 +9,5 @@ mv phpmyadmin.conf $PREFIX/etc/apache2/conf.d
 mv startserver $PREFIX/bin
 mv stopserver $PREFIX/bin
 mv mysqld $PREFIX/bin
+
+echo "\n silahkan untuk menjalankan server ketik startserver dan untuk menstop stopserver"
