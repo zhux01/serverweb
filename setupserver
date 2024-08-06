@@ -1,5 +1,4 @@
 #!/system/bin/sh
-pkg install phpmyadmin mariadb php-apache -y
 rm $PREFIX/etc/apache2/httpd.conf
 rm $PREFIX/etc/apache2/conf.d/phpmyadmin.conf
 rm $PREFIX/etc/phpmyadmin/config.inc.php
