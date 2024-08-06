@@ -28,7 +28,7 @@ lalu untuk menjalankan servernya jalankan dengan perintah berikut
 startserver untuk menjalankan
 stopserver untuk menghentikan
 
-username phpmyadmin
+username dan password phpmyadmin
 user: root
 password kosongkan
 
