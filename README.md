@@ -32,4 +32,8 @@ username dan password phpmyadmin
 user: root
 password kosongkan
 
+untuk mengakses phpmyadmin gunakan url berikut
+
+http://localhost:8080/phpmyadmin
+
 goodluck 👍
